@@ -5,7 +5,7 @@
  */
 window.SITE_CONTENT = {
   // Add a real portrait in assets/, then set this to "assets/portrait.jpg".
-  portrait: assets/portrait.jpg,
+  portrait:  "assets/portrait.jpg",
   portraitAlt: "Xiaoshuang Wang",
   // Optional: a privacy-reviewed CV PDF. The original internship CV is NOT copied.
   cvUrl: null,
